@@ -1,0 +1,25 @@
+QNX - Eichhorn Moritz
+
+QNX ist ein unixähnliches Echtzeitbetriebssystem mit Mikrokernel. 1982 kam die erste Version (QUNIX) heraus.
+Das Betriebssystem wurde kurz darauf in QNX umbenannt. Der Quellcode vom Kernel ist öffentlich zugänglich.
+
+Ende der 1990er wurde der Kernel neu geschrieben, um ihn SMP- und POSIX-kompatibel zu machen.
+Diese Version (QNX Neutrino) enthält eine integrierbare GUI, eine Entwicklungsumgebung, GNU Werkzeuge,
+einen Browser und eine HTTP-Server.
+
+Es wurde als Betriebssystem für den Unisys ICON genutzt.
+Viele Navigationssystem verwenden QNX als Betriebssystem: BMW iDrive-Navigationssystem, Navigationssysteme vieler Fahrzeuge des VAG-Konzerns.
+2013-2016 wurden Smartphones mit Blackberry 10, das auf QNX basiert, angeboten.
+
+QNX enthält seit der ersten Version umfangreiche Mechanismen zur Prozesskummunikation um trotz des Speicherschutzes eine möglichst
+effiziente Kommunikation zwischen den Prozessen zu ermöglichen. Diese wurden im Laufe der Entwicklung ausgebaut.
+
+Neutrino läuft heute auf fast jeder modernen CPU.
+
+
+
+
+
+
+
+
