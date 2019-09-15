@@ -11,7 +11,7 @@ Es wurde als Betriebssystem f�r den Unisys ICON genutzt.
 Viele Navigationssystem verwenden QNX als Betriebssystem: BMW iDrive-Navigationssystem, Navigationssysteme vieler Fahrzeuge des VAG-Konzerns.
 2013-2016 wurden Smartphones mit Blackberry 10, das auf QNX basiert, angeboten.
 
-QNX enth�lt seit der ersten Version umfangreiche Mechanismen zur Prozesskummunikation um, trotz des Speicherschutzes eine m�glichst
+QNX enth�lt seit der ersten Version umfangreiche Mechanismen zur Prozesskummunikation, um trotz des Speicherschutzes eine m�glichst
 effiziente Kommunikation zwischen den Prozessen zu erm�glichen. Diese wurden im Laufe der Entwicklung ausgebaut.
 
 Neutrino l�uft heute auf fast jeder modernen CPU.
